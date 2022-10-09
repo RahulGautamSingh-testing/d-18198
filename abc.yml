@@ -1,0 +1,2 @@
+- name: renovate-approve-and-merge
+  uses: cypher7682/renovate-approve-and-merge@v1.0.3
